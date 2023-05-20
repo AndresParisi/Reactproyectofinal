@@ -116,7 +116,7 @@
 .back1, .back1-2 {
   -webkit-animation: slide 3s ease-in-out infinite alternate;
           animation: slide 3s ease-in-out infinite alternate;
-  background-image: linear-gradient(-60deg, #ceffcc 50%, #21b9fb 50%);
+  background-image: linear-gradient(-60deg, #3bac4e 50%, #4840af 50%);
   bottom: 0;
   left: -50%;
   opacity: 0.5;
