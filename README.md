@@ -33,9 +33,10 @@ Los componentes principales para el desarrollo de la funcionalidad son:
 Importante instalar el software necesario, NodeJS, npm, firebase, etc. 
 
 Instalacion:
-1= Ejecutar el comando npm install en la terminal.
-2- Ejecutar el comando npm start en la terminal.
-3- Listo para ejecutar.
+
+    1- Ejecutar el comando npm install en la terminal.
+    2- Ejecutar el comando npm start en la terminal.
+    3- Listo para ejecutar.
 
 Los componentes de este proyecto son:
 
