@@ -30,6 +30,7 @@ function NavBar(props) {
         <LinkContainer onClick={() => setExpanded(false)} to="/category/apple"><NavDropdown.Item>Apple</NavDropdown.Item></LinkContainer>
         <LinkContainer onClick={() => setExpanded(false)} to="/category/samsung"><NavDropdown.Item>Samsung</NavDropdown.Item></LinkContainer>
         <LinkContainer onClick={() => setExpanded(false)} to="/category/android"><NavDropdown.Item>Android</NavDropdown.Item></LinkContainer>
+        
           <NavDropdown.Divider />
           <LinkContainer onClick={() => setExpanded(false)} to="/category/accesorios"><NavDropdown.Item>Accesorios</NavDropdown.Item></LinkContainer>
         </NavDropdown>
