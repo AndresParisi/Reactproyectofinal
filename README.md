@@ -6,7 +6,7 @@
     <img src="https://github.com/AndresParisi/Reactproyectofinal/blob/main/src/assets/images/logo-jimp.png" alt="ParisIngenieria Store" width="140" height="90">
   </a>
 
-  <h3 align="center">ParisIngenieria! E-Commerce - ReactJs Curso de UTN</h3>
+  <h3 align="center">ParisIngenieria! E-Commerce - ReactJs Curso de Coderhouse</h3>
 <br />
 
 
@@ -15,7 +15,7 @@
    
 </div>
 
-Proyecto Final E-commerce creado para el curso de ReactJS de UTN.
+Proyecto Final E-commerce creado para el curso de ReactJS de CoderHouse.
 
 Los componentes principales para el desarrollo de la funcionalidad son: 
 
@@ -69,6 +69,6 @@ Los componentes de este proyecto son:
 <!-- CONTACT -->
 ## Contacto
 
-Andres Parisi - Carla Gonzalez - Gonzalo Molina (github)
+Andres Parisi (github)
 
 Link del proyecto: https://github.com/AndresParisi/Reactproyectofinal
